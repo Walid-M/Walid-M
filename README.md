@@ -1,0 +1,3 @@
+- Name: Walid
+- Background: Mathematics
+- Occupation: Quant
